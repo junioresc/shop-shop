@@ -2,7 +2,7 @@
 
 ## Description
 
-This application is a e-commerce site that showcases multiple products that you can potentially buy. You can add items to your shopping cart and once you finish shopping you can checkout, if you have an account created. We process payments securely using the Stripe API. Currently since none of the items are actually real, the Stripe API uses a test key so we can see how the payment page will look like. This application was originally built using the React Context API to manage global state instead of prop passing, but now it uses the Redux library to handle state and dispatch changes.
+This application is an e-commerce site that showcases multiple products that you can potentially buy. You can add items to your shopping cart and once you finish shopping you can checkout, if you have an account created. We process payments securely using the Stripe API. Currently since none of the items are actually real, the Stripe API uses a test key so we can see how the payment page will look like. This application was originally built using the React Context API to manage global state instead of prop passing, but now it uses the Redux library to handle state and dispatch changes.
 
 - [Usage](#usage)
 - [Questions](#questions)
