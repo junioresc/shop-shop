@@ -1,4 +1,4 @@
-# shop-shop
+# Shop-Shop
 
 ## Description
 
